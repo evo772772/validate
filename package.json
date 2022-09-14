@@ -1,0 +1,16 @@
+{
+  "name": "validate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.6.0",
+    "json-joi-converter": "^17.2.1-g"
+  },
+  "devDependencies": {
+    "bump": "^0.2.5"
+  }
+}
